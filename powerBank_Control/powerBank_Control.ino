@@ -5,7 +5,7 @@
 #define POWER_BANK_DISCONNECTED 0u
 
 #define CHARGING_THRESHOLD_VALUE 80           //60//       //approximately 3.5 days
-#define DISCHARGING_THRESHOLD_VALUE 6         //30//       // 6 hours
+#define DISCHARGING_THRESHOLD_VALUE 12         //30//       // 6 hours
 #define WAKEUP_THRESHOLD_VALUE_DISCONNECT 15  //15 SEC
 #define WAKEUP_THRESHOLD_VALUE_CONNECT 1      //1 SEC
 #define STOREDATA_THRESHOLD_VALUE 3           //10//       // 3 hours
